@@ -1,4 +1,3 @@
-# I can't upload the dataset
 # Dataset is from kaggle Link => https://www.kaggle.com/paultimothymooney/blood-cells/kernels
 
 ## Directory :
