@@ -1,0 +1,11 @@
+# DL_blood_cell
+# Dataset is from kaggle Link => https://www.kaggle.com/paultimothymooney/blood-cells/kernels
+
+# Directory :
+  - checkpoint :
+    1. model_check_2019-03-15_1_fit.h5
+  - dataset-master/images/TRAIN/trian_cell/class_a : 
+    1. images(EOSINOPHIL)
+  - dataset-master/images/TRAIN/trian_cell/class_b :
+    1. images(LYMPHOCYTE)
+   
